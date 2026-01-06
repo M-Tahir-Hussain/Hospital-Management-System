@@ -119,9 +119,4 @@ If you want me to suggest or create patches (e.g., password hashing, POSIX port)
 ---
 
 ## License
-This project is released into the public domain using the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. See the included `LICENSE` file for full text.
-
----
-
-## Author / Contact
-Original code provided by the user. For further edits, testing, or packaging, I can help convert this into a cross-platform CLI, add a Makefile, or prepare a GitHub repository structure.
+This is a license free project anyone can use it freely antime in their projects
